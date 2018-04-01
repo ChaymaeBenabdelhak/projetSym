@@ -1,0 +1,3 @@
+entraineurs_homepage:
+    path:     /
+    defaults: { _controller: entraineursBundle:Default:index }

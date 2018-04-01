@@ -1,0 +1,11 @@
+entraineurs:
+    resource: "@entraineursBundle/Resources/config/routing.yml"
+    prefix:   /
+
+secretaire:
+    resource: "@secretaireBundle/Resources/config/routing.yml"
+    prefix:   /
+
+app:
+    resource: '@AppBundle/Controller/'
+    type: annotation

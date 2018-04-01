@@ -1,0 +1,3 @@
+secretaire_homepage:
+    path:     /
+    defaults: { _controller: secretaireBundle:Default:index }
